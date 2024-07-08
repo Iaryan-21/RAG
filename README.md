@@ -20,7 +20,7 @@ The RAG model architecture consists of two main components:
 1. **Retriever**: Searches a knowledge base to retrieve relevant documents.
 2. **Generator**: Generates the final response based on the retrieved documents.
 
-![RAG Architecture](path_to_architecture_image)
+![RAG Architecture](https://github.com/Iaryan-21/RAG/blob/main/rag__.webp)
 
 ## Dataset
 
